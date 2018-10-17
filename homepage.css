@@ -6,12 +6,14 @@
     border-color: red; */
 }
 .flex-item {
-    flex-grow: 1;
+
+    justify-content: flex-start;
     /* border-style: dotted;
     border-color: red; */
 }
 .flex-item:nth-child(2) {
-    border-color: blue;
+    flex-grow: 1;
     display: flex;
     justify-content: flex-end;
+    /* border-color: blue; */
 }
