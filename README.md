@@ -1,6 +1,6 @@
 Team Members
 
 * Luis, El Capitan
-* Audrey, The Decider
+* Audrey, Ubuntu!
 * Derrick, El Doyer
 * Sarah, Frog Eater
