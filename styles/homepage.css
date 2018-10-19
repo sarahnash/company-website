@@ -21,3 +21,18 @@
     /* border-style: dotted;
     border-color: red; */
 }
+.flex-container-cards {
+    align-items: center;
+    /* border-style: dotted;
+    border-color: red; */
+}
+.card {
+    padding-top: 5%;
+    /* border-style: dotted;
+    border-color: blue; */
+}
+.card-img-top {
+    width: 357.75px;
+    height: 357.75px;
+    align-self: center;
+}
