@@ -21,3 +21,42 @@
     /* border-style: dotted;
     border-color: red; */
 }
+.flex-container-cards {
+    align-items: center;
+    /* border-style: dotted;
+    border-color: red; */
+}
+.card {
+    padding-top: 5%;
+    /* border-style: dotted;
+    border-color: blue; */
+}
+.card-img-top {
+    width: 357.75px;
+    height: 357.75px;
+    align-self: center;
+}
+body {
+    background-image:linear-gradient(to bottom, #f5f5f5 0%,rgba(255, 255, 255, 0.6) 50%), url("../img/coffee.png"), url("../img/taco.png");
+    background-repeat:no-repeat, no-repeat;
+    background-position: 0% 0%, 5% 25%, 95% bottom;
+    background-size: 100%, 250px ,250px;
+}
+#gmap_canvas {
+    display: flex;
+    align-content: flex-end;
+    margin: 15px auto;
+    border: 5px solid black
+}
+#intro {
+    margin-top: 30px;
+    text-align: center;
+}
+th, td {
+    text-align: center
+}
+#table * {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
